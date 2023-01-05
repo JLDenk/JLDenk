@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Jose Luis Denk</h1>
 <h3 align="center">Me apasiona el Desarrollo Web</h3>
 
-- 👨‍💻 Desplegare mi Portfolio con mis proyecots los primeros días del 2023.
+- 👨‍💻 Desplegare mi Portfolio con mis proyectos los primeros días del 2023.
 
 - 📫 Puedes escribirme a **joseluis.denk@gmail.com**
 
